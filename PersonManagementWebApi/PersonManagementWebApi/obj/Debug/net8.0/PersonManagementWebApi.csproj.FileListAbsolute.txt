@@ -1,0 +1,7 @@
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.csproj.AssemblyReference.cache
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.AssemblyInfoInputs.cache
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.AssemblyInfo.cs
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.csproj.CoreCompileInputs.cache
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Practice programming\C_sharp\PersonManagementWebApi\PersonManagementWebApi\obj\Debug\net8.0\PersonManagementWebApi.MvcApplicationPartsAssemblyInfo.cache
